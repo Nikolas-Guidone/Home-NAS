@@ -1,7 +1,6 @@
 # Network Attached Storage
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 My personal Network Attached Storage project aimed to not only provide hands-on experience for networking, CLI, etc. but was a valuable opportunity for me to explore how setting up servers work, as well as maintaining, updating, protecting, and running various apps and jobs simultaneously on my home network.
 
