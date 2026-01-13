@@ -19,7 +19,6 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 
 ## Technologies Used
 
-Document the stack clearly.
 
 | Category   | Technology                      |
 | ---------- | ------------------------------- |
