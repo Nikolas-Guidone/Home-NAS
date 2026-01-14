@@ -33,4 +33,4 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 
 ## Stages of my NAS
 
-| <a href="https://github.com/Nikolas-Guidone/Home-NAS">Stage 1</a>      | Physical build and OS install |
+| <a href="https://github.com/Nikolas-Guidone/Stage-1-NAS">Stage 1</a> - Physical build and OS install |
