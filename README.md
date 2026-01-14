@@ -28,3 +28,9 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 | Security   | VPN, ACLs                       |
 | Services   | SMB, Cloud Sync, Snapshots      |
 | Monitoring | Logs, Pihole                    |
+
+---
+
+## Stages of my NAS
+
+| <a href="https://github.com/Nikolas-Guidone/Home-NAS">Stage 1</a>      | Physical build and OS install |
