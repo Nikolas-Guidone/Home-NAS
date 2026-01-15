@@ -31,6 +31,15 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 
 ---
 
+## Apps and Services currently running on my NAS
+
+ - Immich
+ - Jellyfin
+ - Nextcloud
+ - VaultWarden
+ - Pihole
+ - OpenwebUI
+
 ## Stages of my NAS
 
 | <a href="https://github.com/Nikolas-Guidone/Stage-1-NAS">Stage 1</a> - Physical build and OS install |
