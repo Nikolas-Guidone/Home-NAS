@@ -37,7 +37,8 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
  - Jellyfin
  - Nextcloud
  - VaultWarden
- - Pihole
+ - <a href="https://github.com/Nikolas-Guidone/Pihole">Pihole</a>
+ - Nginx Proxy Manager
  - OpenwebUI
 
 ## Stages of my NAS
