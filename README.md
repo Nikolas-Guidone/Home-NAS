@@ -31,7 +31,7 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 
 ---
 
-## Apps and Services currently running on my NAS
+## Current Apps and Services
 
  - Immich
  - Jellyfin
