@@ -44,3 +44,12 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 ## Stages of my NAS
 
 | <a href="https://github.com/Nikolas-Guidone/Stage-1-NAS">Stage 1</a> - Physical build and OS install |
+
+## ## Security Considerations
+
+- No services exposed directly to Internet
+- Reverse proxy and custom DNS records
+- Vlan and split - horizon DNS
+- Custom created certificates managed internally
+- HTTP vs HTTPS when exposed (currently not exposed - Internal only)
+
