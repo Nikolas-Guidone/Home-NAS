@@ -40,6 +40,7 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
  - <a href="https://github.com/Nikolas-Guidone/Pihole">Pihole</a>
  - Nginx Proxy Manager
  - OpenwebUI
+ - <a href="https://github.com/Nikolas-Guidone/Dockge">Dockge</a>
 
 ## Stages of my NAS
 
@@ -51,5 +52,5 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 - Reverse proxy and custom DNS records
 - Vlan and split - horizon DNS
 - Custom created certificates managed internally
-- HTTP vs HTTPS when exposed (currently not exposed - Internal only)
+- HTTP vs HTTPS when exposed (currently not exposed - LAN only)
 
