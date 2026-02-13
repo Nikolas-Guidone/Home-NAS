@@ -67,3 +67,12 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
 - Custom created certificates managed internally
 - HTTP vs HTTPS when exposed (currently not exposed - LAN only)
 
+
+---
+
+## Future Plans
+
+- Use NAS as primary DNS for LAN
+- Upgrade storage capacity as well as RAM and Motherboard
+- Virtualize NAS via Proxmox
+- Convert all TrueNAS applications to docker containers
