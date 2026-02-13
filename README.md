@@ -42,6 +42,19 @@ My personal Network Attached Storage project aimed to not only provide hands-on 
  - OpenwebUI
  - <a href="https://github.com/Nikolas-Guidone/Dockge">Dockge</a>
 
+ ## Current Hardware
+
+ - Operating System: TrueNAS 25.10.1 - Goldeye
+ - Processor: Intel Core i7-4790 CPU @ 3.60GHz
+ - Motherboard: Dell 0KWVT8
+ - Graphics Card: -
+ - Installed RAM: 24GB Total (2x 4GB DDR3 & 2x 8GB DDR3)
+ - Storage:
+     - 2x Western Digital Red Plus 4 TB HDD
+     - 1x Seagate 1TB Desktop HDD
+     - 1x Samsung 870 EVO 500GB Internal SSD
+ - Network: Ethernet
+
 ## Stages of my NAS
 
 | <a href="https://github.com/Nikolas-Guidone/Stage-1-NAS">Stage 1</a> - Physical build and OS install |
